@@ -1,1 +1,2 @@
 
+#domeniko-iot-switch
